@@ -1,6 +1,5 @@
 🚀 Project Overview: Fun Frame AI
 
-
 Fun Frame AI is an innovative Android application designed to add a touch of humor and creativity to your photos by generating funny and contextually relevant comments using Artificial Intelligence. It aims to provide users with an engaging and effortless way to enhance their image-sharing experience on social media and with friends.
 
 Purpose and Vision:
